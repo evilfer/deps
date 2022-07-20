@@ -1,0 +1,19 @@
+{
+  "name": "deps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint src"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.20.0",
+    "eslint-plugin-unused-imports": "^2.0.0"
+  }
+}
